@@ -1,4 +1,7 @@
 # A* Pathfinding Algorithm Visualization
+## Preview
+
+![PathfindingVideo](https://github.com/AnmolVerma7/AStar-PathFinding-Python/assets/90490916/02164fdc-fd50-4755-b3b0-3c5de5468f2e)
 
 ## Description
 This Python script, `astar.py`, provides a visual implementation of the A* Pathfinding Algorithm using Pygame. It's designed to visually demonstrate the most efficient path between two points in a 50x50 grid. The script allows users to interact with the grid, place start and end points, and visualize the pathfinding process in real time.
